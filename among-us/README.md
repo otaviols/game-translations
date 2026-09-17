@@ -37,4 +37,4 @@ resposta no jogo).
 |---|---|---|
 | en_US | English (United States) | built-in |
 | pt_BR | Português (Brasil) | built-in |
-| es_LATAM | Español | (to confirm / a confirmar) |
+| es_LATAM | Español | Bauti |

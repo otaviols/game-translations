@@ -432,7 +432,6 @@
   "hall.event_started": "{room} maçı başladı.",
   "hall.event_created_anon": "Yeni oda: {room}.",
   "hall.event_created": "{name}, {room} odasını oluşturdu.",
-  "lobby.running_selected": "Bu maç devam ediyor. Bittiğinde tekrar açılır ve salon size haber verir.",
   "lobby.running_entry": "{name} - devam ediyor, {count} oyuncu",
   "lobby.entry_players": "{names} ile",
   "hall.title": "Salon",

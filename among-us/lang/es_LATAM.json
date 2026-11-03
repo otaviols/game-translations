@@ -359,7 +359,6 @@
   "hall.event_started": "Empezó la partida {room}.",
   "hall.event_created_anon": "Nueva sala: {room}.",
   "hall.event_created": "{name} creó la sala {room}.",
-  "lobby.running_selected": "Esta partida está en curso. Se abrirá de nuevo cuando termine, y la entrada te avisará.",
   "lobby.running_entry": "{name} - en curso, {count} jugadores",
   "lobby.entry_players": "con {names}",
   "hall.title": "Entrada",

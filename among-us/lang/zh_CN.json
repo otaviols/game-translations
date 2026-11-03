@@ -359,7 +359,6 @@
   "hall.event_started": "{room} 比赛开始了。",
   "hall.event_created_anon": "新房间：{room}。",
   "hall.event_created": "{name} 创建了房间 {room}。",
-  "lobby.running_selected": "这场比赛正在进行中。结束时它会再次打开，大厅会告诉你。",
   "lobby.running_entry": "{name} - 进行中，{count} 玩家",
   "lobby.entry_players": "与 {names}",
   "hall.title": "大厅",

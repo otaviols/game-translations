@@ -463,7 +463,7 @@
   "hall.event_started": "A partida {room} começou.",
   "hall.event_created_anon": "Nova sala: {room}.",
   "hall.event_created": "{name} criou a sala {room}.",
-  "lobby.running_selected": "Essa partida está em andamento. Ela volta a ficar aberta quando acabar, e o saguão avisa.",
+  "lobby.running_join": "Entrando para assistir. Quando a partida acabar, você fica na sala para jogar a próxima.",
   "lobby.running_entry": "{name} - em andamento, {count} jogadores",
   "lobby.entry_players": "com {names}",
   "hall.title": "Saguão",

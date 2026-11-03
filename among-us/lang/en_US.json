@@ -463,7 +463,7 @@
   "hall.event_started": "The match {room} started.",
   "hall.event_created_anon": "New room: {room}.",
   "hall.event_created": "{name} created the room {room}.",
-  "lobby.running_selected": "This match is in progress. It opens again when it ends, and the hall will tell you.",
+  "lobby.running_join": "Joining to watch. When the match ends, you stay in the room to play the next one.",
   "lobby.running_entry": "{name} - in progress, {count} players",
   "lobby.entry_players": "with {names}",
   "hall.title": "Hall",

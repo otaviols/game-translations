@@ -1096,7 +1096,6 @@
   "role.assigned_vulture": "你是秃鹫，中立：在尸体旁边时，能力键会吃掉它，尸体随之消失。在尸体被发现之前吃掉足够多的尸体，你就独自获胜。",
   "lobby.role_count.vulture": "秃鹫（中立：吃尸体获胜）",
   "lobby.role_chance.vulture": "每个秃鹫出现的几率，以%表示（空白=总是）",
-  "lobby.role_tunable.vulture.bodies": "秃鹫：需要吃多少具尸体才能获胜（空白=默认）",
   "lobby.role_tunable.vulture.cooldown": "秃鹫：两具尸体之间的冷却时间，以秒为单位（空白=默认）",
   "role.alert_on": "警戒已开启。",
   "role.alert_active": "你已经在警戒中。还剩 {seconds} 秒。",

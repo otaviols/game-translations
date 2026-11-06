@@ -1236,7 +1236,6 @@
   "role.assigned_vulture": "Sen Akbabasın, tarafsızsın: bir cesedin yanındayken yetenek tuşu onu yer, ve ceset kaybolur. Bulunmadan önce yeterince ceset ye, tek başına kazanırsın.",
   "lobby.role_count.vulture": "Akbabalar (tarafsız: ceset yiyerek kazanır)",
   "lobby.role_chance.vulture": "Her Akbabanın ortaya çıkma ihtimali, % olarak (boş = her zaman)",
-  "lobby.role_tunable.vulture.bodies": "Akbaba: kazanmak için kaç ceset gerektiği (boş = varsayılan)",
   "lobby.role_tunable.vulture.cooldown": "Akbaba: cesetler arasındaki bekleme süresi, saniye cinsinden (boş = varsayılan)",
   "role.alert_on": "Alarm açık.",
   "role.alert_active": "Zaten alarmdasın. {seconds} saniye kaldı.",

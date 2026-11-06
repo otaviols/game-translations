@@ -636,7 +636,6 @@
   "role.assigned_vulture": "Sei il Vulture, neutrale: vicino a un corpo, la chiave di abilità lo mangia e scompare. Mangia abbastanza corpi prima che vengano trovati e vinci da solo.",
   "lobby.role_count.vulture": "Vulture (neutri: vincono mangiando corpi)",
   "lobby.role_chance.vulture": "Probabilità di ciascun Vulture, in percentuale (vuoto = sempre)",
-  "lobby.role_tunable.vulture.bodies": "Vulture: quanti corpi vincere (vuoto = predefinito)",
   "lobby.role_tunable.vulture.cooldown": "Vulture: tempo di attesa tra i corpi, in secondi (vuoto = predefinito)",
   "role.alert_on": "Avviso attivo.",
   "role.alert_active": "Sei già in allerta. Restano ancora {seconds} secondi.",

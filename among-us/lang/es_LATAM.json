@@ -1096,7 +1096,6 @@
   "role.assigned_vulture": "Eres el Buitre, neutral: cerca de un cuerpo, la tecla de habilidad se lo come, y desaparece. Cómete suficientes cuerpos antes de que los encuentren y ganas solo.",
   "lobby.role_count.vulture": "Buitres (neutral: gana comiendo cuerpos)",
   "lobby.role_chance.vulture": "Probabilidad de cada Buitre, en porcentaje (en blanco = siempre)",
-  "lobby.role_tunable.vulture.bodies": "Buitre: cuántos cuerpos para ganar (en blanco = valor por defecto)",
   "lobby.role_tunable.vulture.cooldown": "Buitre: tiempo de recarga entre cuerpos, en segundos (en blanco = valor por defecto)",
   "role.alert_on": "Alerta activada.",
   "role.alert_active": "Ya estás en alerta. Faltan {seconds} segundos.",
